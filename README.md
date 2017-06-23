@@ -7,4 +7,5 @@ Prototype of one modular robot:
 ![alt text](https://github.com/zhitianz/robot-control-app/blob/master/robot_prototype.png)
 
 Scrrenshot of Android application:
+
 ![alt text](https://github.com/zhitianz/robot-control-app/blob/master/screenshot.png)
